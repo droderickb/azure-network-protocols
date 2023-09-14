@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/droderickb/azure-network-protocols/assets/138819497/0c294306-e17e-4b0f-b9bb-84b6e7c90704)
 
 
-I start by creating a resource group for the virtual machines to be on. Then I created a subnet with two virtual machines to be attached. One of the virtual machine has an Os of Windows and the other is running on Linux.
+I start by creating a resource group for the virtual machines to be on. Then I created a subnet with two virtual machines to be attached. One of the virtual machine has an Os of Windows and the other is running on a Linux Server.
 </p>
 <br />
 
